@@ -10,8 +10,10 @@
 
 |No| Nombre| Descripcion | Potenciador | Estatus |
 |--|--|--|--|--|
-|1.|Metodologia de Evaluación de la Materia|apuntes de evaluación | 5 |🟢Concluida|
-|2.|Mi Primer pagina web| realizacion de la primer página web | 5 |🟢Concluida|
-|3.|Portafolio web | Realización de portafolio web|5|🟢 Concluida|
+|1.|Metodologia de Evaluación de la Materia|apuntes de evaluación | 10 |🟢Concluida|
+|2.|Mi Primer pagina web| realizacion de la primer página web | 50 |🟢Concluida|
+|3.|Portafolio web | Realización de portafolio web|50|🟢 Concluida|
+|4.|Formulario de registro de Nuevos Usuarios | Realización de portafolio web|??|🟡En progreso|
+
 
 Periodo: Septiembre - Diciembre 2026
